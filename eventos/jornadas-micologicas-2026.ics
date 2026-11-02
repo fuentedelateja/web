@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fuente de la Teja//Actividades//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:jornadas-micologicas-2026@fuentedelateja.org
+DTSTAMP:20261102T120000Z
+DTSTART:20261122T100000Z
+DTEND:20261122T170000Z
+SUMMARY:Jornadas Micológicas - Fuente de la Teja
+LOCATION:Centro Social\, El Cristo del Espíritu Santo (Malagón)
+DESCRIPTION:Salida a buscar setas (trae una cesta)\, comida sobre las 14:00 y después exposición y charla de un experto. Más info: https://fuentedelateja.org/#proxima
+URL:https://fuentedelateja.org/#proxima
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Jornadas Micológicas
+END:VALARM
+END:VEVENT
+END:VCALENDAR
